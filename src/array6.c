@@ -17,7 +17,7 @@ myfuncn( int *var1, int var2)
     }
 }
 
-int main()
+int main19()
 {
      int var_arr[] = {11, 22, 33, 44, 55, 66, 77};
      myfuncn(&var_arr, 7);

@@ -7,7 +7,7 @@
 
 #include <stdio.h>
 
-int main19 ()
+int main20 ()
 {
    /* an array with 5 rows and 2 columns*/
    int a[5][2] = { {0,0}, {1,2}, {2,4}, {3,6},{4,8}};
