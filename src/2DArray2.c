@@ -6,7 +6,7 @@
  */
 
 #include<stdio.h>
-int main()
+int main10()
 {
    /* 2D array declaration*/
    int disp[3][5];
