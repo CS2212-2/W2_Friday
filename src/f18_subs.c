@@ -7,7 +7,7 @@
 
 #define N  5
 
-int main( void )
+int main5( void )
 {
     char line[] = "I found the cat in the fort.";
     char * left, * right, * sub;

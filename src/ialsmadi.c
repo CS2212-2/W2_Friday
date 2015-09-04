@@ -5,7 +5,7 @@
 #define ARRAY_LEN 10
 	double grades[ARRAY_LEN] = {3.7, 2.2, 4.3, 3.4, 3.2, 2.8, 3.9, 2.6, 4.1, 3.0};
     int i;
-void main()
+void main7()
 {
 
     //prints addresses
