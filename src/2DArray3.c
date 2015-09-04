@@ -6,7 +6,7 @@
  */
 
 #include <stdio.h>
-int main()
+int main12()
 {
    int abc[5][4] ={
             {0,1,2,3},
